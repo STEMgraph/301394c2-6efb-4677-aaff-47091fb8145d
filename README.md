@@ -1,9 +1,7 @@
 <!---
 {
   "id": "301394c2-6efb-4677-aaff-47091fb8145d",
-  "depends_on": [
-    "8c79cd1f-f6bd-4930-b62c-b2970c412735"
-  ],
+  "depends_on": ["8c79cd1f-f6bd-4930-b62c-b2970c412735"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-13",
   "keywords": ["scp", "ssh", "file transfer", "linux", "remote access"]
